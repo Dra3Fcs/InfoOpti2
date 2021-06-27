@@ -260,4 +260,4 @@ cls
 ```
 Vous pouvez constater que ce fameux logiciel qui prétend faire gagner des FPS, fragilise votre PC.
 Pourquoi toucher au regedit `TCPIP` ça fais gagner des FPS ? NON.
-Ce logiciel n'est pas du tout conseillé, si vous voulez cassé votre Windows allez-sy.
+Ce logiciel n'est pas du tout conseillé, si vous voulez casser votre Windows allez-y.
